@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-### 📌 [Point of Sale System](⚙️ Coming soon...)
+### 📌 [Point of Sale System]([⚙️ Coming soon...](https://github.com/JonathanGr18/POS_REACT_Node.js))
 A fullstack system to manage products, sales, reports and stock.
 > React • Node.js • PostgreSQL
 
